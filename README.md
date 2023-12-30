@@ -8,6 +8,10 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 1. Get the input matrix using np.array()
 2. Find the 2-norm of the matrix using np.linalg.norm()
 3. Print the norm of the matrix in two decimal places
+
+
+
+
 ## Program:
 ```
 # Register No: 212223240013
